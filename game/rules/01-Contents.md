@@ -45,6 +45,10 @@ Each player has their very own board for managing individual gameplay. This boar
 
 A smaller version of the player board used to keep track of a Robot Slave.
 
+## Hexagonal Tunnel Tiles
+
+What tunnels are made of.
+
 ## Item Tokens
 
 20 tokens for each player, each numbered coresponding to an Item Card slot on the Player Board
@@ -68,6 +72,7 @@ Item cards are central to the gameplay. Each player starts the Tunneling Phase w
   - **Initiative Tokens**: 1/2" Galvanized machine nuts marked with sharpie
 - **Player Boards**: 🤷‍
 - **Robot Slave Boards**: 🤷‍
+- **Hexagonal Tunnel Tiles**: Punched out of posterboard with a hexagonal paper punch and drawn on with markers.
 - **Item Tokens**: 🤷‍
   - **for each player**: 🤷‍
 - **Item Cards (See _Items_)**: 🤷‍
