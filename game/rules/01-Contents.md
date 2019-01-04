@@ -56,3 +56,18 @@ Item cards are central to the gameplay. Each player starts the Tunneling Phase w
 ## Turn Cards
 
 6 cards, one for each player, describe how to play one's turn. One side contains rules for Tunneling Phase turn, the other for Murdering Phase turn.
+
+---
+
+## _DIY Suggestions_
+
+- **Board**: One of those trifold presentation boards with a board meticulously drawn on.
+- **Character Tokens**: 🤷‍
+- **Robot Slave Tokens**: 🤷‍
+- **Cup of Initiative Tokens**: Just any opaque cup you have around.
+  - **Initiative Tokens**: 1/2" Galvanized machine nuts marked with sharpie
+- **Player Boards**: 🤷‍
+- **Robot Slave Boards**: 🤷‍
+- **Item Tokens**: 🤷‍
+  - **for each player**: 🤷‍
+- **Item Cards (See _Items_)**: 🤷‍
