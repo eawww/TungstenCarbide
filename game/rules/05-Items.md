@@ -9,6 +9,7 @@
 - _Letter of Acknowledgement from the Foreman_
 - _Mattock_
 - _Flashlight_
+- _Yam_
 
 ## Robot Slave
 
@@ -25,7 +26,7 @@ Three separate cards compose the Robot Slave. Once a player collects all parts o
 
 ## Cave Orphan
 
-A Cave Orphan is a dirt-covered beastchild that can be used to disarm traps. When activated, a Cave Orphan can move up to 3 spaces to a space with a _trap_ set on it. The player rolls 1d6 to decide the fate of the Orphan. A roll of 1-4 destroys both the trapped item and the Orphan. On a roll of 5-6, the Orphan returns to the player with the item.
+The children of former contestants, these dirt-covered beastchildren wandered underground in search of their parents and became lost. Their longing for adult guidance makes them eager to disarm traps for you. When activated, a Cave Orphan can move up to 3 spaces to a space with a _trap_ set on it. The player rolls 1d6 to decide the fate of the Orphan. A roll of 1-4 destroys both the trapped item and the Orphan. On a roll of 5-6, the Orphan returns to the player with the item.
 
 ## Dirt
 
@@ -33,11 +34,11 @@ Dirt.
 
 ## Spikes
 
-A **Trap** Card. Does 1 damage to a player who steps on them unless they have special shoes or something that prevent this.
+A **Trap** Card. Does 1 damage to a player who steps on them unless they have special shoes or something that prevent that kind of thing.
 
 ## Bomb
 
-A **Trap** Card. Does 3 damage when tripped, though an armor bonus can reduce it. When tripped, player rolls 1d6. On a roll of 1-2, a cave-in occurs. Tile is replaced randomly by another tile from the deck and is then rotated 1d6 times.
+A **Trap** Card. Does 3 damage when tripped, though an armor bonus can reduce it. When tripped, player rolls 1d6. On a roll of 1-2, a cave-in occurs. Tile is replaced randomly by another tile from the deck and is then rotated clockwise 1d6 times.
 
 ## Knife
 
@@ -51,6 +52,10 @@ A _weapon_ that does 2 HP of damage.
 
 A digging tool. Can be used once and discarded to rotate any one adjacent or current tile. Alternativelt can be used as a _weapon_ that does 1 HP of damage. The mattock can be used to dig while equipped but must still be discarded.
 
-# Flashlight
+## Flashlight
 
 It lets you see stuff a little better. Can be equipped as a weapon that does 1 HP of damage and gives a +2 speed bonus.
+
+## Yam
+
+Standard issue miner yam. You stow half of it away so you might share it with your family... if you ever see them again. Gives +1 Health.

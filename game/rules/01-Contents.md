@@ -5,6 +5,7 @@
 - 12 Robot Slave Tokens
 - 1 Cup of Initiative Tokens
   - 6 Initiative Tokens
+- 6 Health tracking tokens
 - 6 Player Boards
 - 12 Robot Slave Boards
 - 120 Item Tokens
@@ -31,6 +32,10 @@ A cup of initiative tokens for randomly choosing turn order in each round.
 
 Initiative tokens to designate turn order. Are drawn at the beginning of each round and kept for the duration of the round.
 
+## Health Tracking Tokens
+
+A little thing to place on your health tracker to keep track of your health.
+
 ## Player Boards
 
 Each player has their very own board for managing individual gameplay. This board has the following things on it:
@@ -51,7 +56,7 @@ What tunnels are made of.
 
 ## Item Tokens
 
-20 tokens for each player, each numbered coresponding to an Item Card slot on the Player Board
+20 tokens for each player, each numbered coresponding to an Item Card slot on the Player Board. Each token has a _trap_ side (Spiky) and a _cache_ side (smooth & friendly).
 
 ## Item Cards
 
