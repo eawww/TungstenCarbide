@@ -1,59 +1,35 @@
-## Gameplay
+# Gameplay
 
-### Tunneling Phase
+Gameplay proceeds in rounds until all but one player is dead.
 
-In the first phase of the game, players build the map. It is played in rounds until the entire board is filled with tiles.
+## Round start
 
-#### Beginning of round
+Each player pulls an initiative token from the cup and places it in front of them on their player card in the marked spot. Players then take their turns in the order of their initiative tokens, starting with 1.
 
-- All **initiative tokens** are returned to pool.
-- Each player chooses an initiative token randomly from the pool. The order in which this is done doesn't matter.
-- Players take their turns in order of lowest initiative token.
+## Player Turn
 
-#### Player Turn
+1. Roll _2d6_
 
-- You may also discard **6** tiles to draw an item card.
-- Roll **2d6**
-  - Low number is the **draw number**
-  - High number is the **play number**
-- Draw a number of hexagonal tiles equal to your **draw number**.
-  - These can be taken from any stack and can be looked at immediately. Keep all of your tiles hidden, or don't if you want. Who cares?
-- Roll **1d6**. If the result is _lower_ than your **play number**, draw an **item card**.
-- _If there are no open paths from your origin space_, you're a bastard and stop it. Here's what's gonna happen:
-  - Your opponents can bid tiles from their hand as an _offering of dirt_ to decide who gets to _command the great disruptor worm_. The great disruptor worm HATES closed loops:
-  - Whoever bids the most tiles commands the disruptor worm to mess up your shit and uses one of their bid tiles to replace a tile of their choosing to open a continuous path to your origin space. They discard the rest to the bottom of whatever pile.
-  - If this is a two-player game, your opponent just chooses whether or not to replace one of your tiles with one of theirs.
-- Place a number of tiles between 1 and your **play number**. You must play at least one tile each turn.
-  - Each tile must continue a path from your origin space.
-  - On any tile you play this turn, you may lay one item as either a **trap** or a **cache**.
-    - You may only do this once per turn.
-- At the end of their turn, player returns their initiative token to the cup.
+- High number is your **DIG NUMBER**. This is how many spaces you will be able to move on your turn.
+- Low number is your **DIRT NUMBER**. This is the number of tiles you'll draw on your turn.
 
-### Murdering Phase
+2. Draw tiles equal to your Dirt Number.
 
-_Optionally, Discard 1_ of your item cards and then draw until you have _6 item cards_ in your hand.
+- If there are no tiles left in the common piles but there are empty spaces on the board, draw tiles from the player who has hoarded the most.
+  - If that player is you, you must exclaim "I am a dirty dirt hoarder. Behold, my filthy mound." You may elect not to do this and instead return half (rounded up) of your tiles to the common piles.
+- There is no maximum number of tiles you may have at any given time.
 
-Similarly to the tunneling phase, the murdering phase is played in rounds. The object of the game is to be the last player alive.
+3. Move your character piece a number of spaces less than or equal to your Dig Number.
 
-#### Beginning of Round
+- If you would move into a space without a tile, place a tile from your hand in that space in any configuration so long as its path connects to the space you moved from.
+- In any space you visit during your turn, including the one you start in, you may play an item card. You can play it either as an action or a trap, but you may only place a trap in a space that doesn't already have one. You may only place one trap per turn.
+- If you move into a space with another player's trap. Roll 1d6.
+  - **1-4** - You've tripped the trap. You moron! The player who owns the trap reveals the associated card applies the _trap_ effect to you. The movement from your Dig Number ends.
+  - **5** - You've managed to avoid the trap. Proceed as if there's no trap there. If you end your turn in this space, you can freely move out of it on your next turn.
+  - **6** - You masterful trickster, you! You've disarmed the trap! Collect the item card associated with it and add it to your hand. Return the trap marker to its owner. Alternatively, you can choose to play this as a 5 and simply continue on your way.
+- If you move into a space with your own trap, roll _1d6_. On a 1, you have stupidly tripped your own trap. You idiot. Reveal the card associated with it and apply its _trap_ effect to yourself.
+- If you move into a space with another player or another players minion, you may mutually agree not to engage each other. If you've moved a player character token into a space with another player character token, you may mutually agree to trade. If either party wishes to engage in combat, combat begins. Have at you!!!
 
-- Decide initiative the same way as in the Tunneling Phase
+4. Roll 1d6
 
-#### Player Turn
-
-- **Speed** - Roll 1d6 and add any speed bonuses to determine the number of spaces you can move. You can move up to this many spaces but need not move the full amount.
-- **Spring Traps** - If you move into a space where a trap has been placed, you must spring that trap (unless you have an item that allows you to avoid it) _even if you placed it_. If it is a trap card, resolve it with yourself as the target. If it is not a trap card, you may collect it as if it were a cache.
-- **Place Items** - You may place any item in your hand on any space you visit, including the ones you start and end on. These items may be placed as _caches_ or _traps_.
-- **Gather Caches** - You may gather cached items on any space you visit. Once gathered, you may look at it and choose to keep it in your hand or activate it.
-- **Battle Folks** - If, on your turn, you move into the same space as another player's character or one of their minions, you may engage them in _combat_.
-- **Dig** - On any turn, a player may attempt to manually dig through a wall. This is especially useful in the event of a cave-in when no proper digging items are available. There are two options available for digging out of a space:
-  - _Random digging_: If your aim is simply to get out of a space, you may strike out into a random direction. Roll _1d6_. If you roll a 6, select an adjacent space and roll an additional _1d6_. For your dice roll, move to the nth tile clockwise from the space you selected. (The space you selected for a roll of _1_, the space clockwise of the space you selected for a roll of _2_, etc.) If you end up not even going through a wall, it's not totally your fault; it's dark underground.
-  - _Directed digging_: If you want to get to a specific adjacent space, roll _2d6_. On a roll of 10-12, move to any adjacent space.
-
-## Winning
-
-To win the game, a player must be the last living and non-trapped player.
-
-Once all but one player are dead or unable to move, all players unable to move are given _one additional round_ to attempt to dig out of their eternal tombs. If any player frees themselves, even if into another trapped space, play resumes. If all players fail to free themselves, play ends and the free player is declared the winner. Also, I guess, the sounds of celebration enrage the gamma-exposed moles who then drain the blood from all those still trapped in the walls... which explains why they can't just keep trying to dig out. They would need blood for that.
-
-If
+- If the result is equal to or less than the number of tiles you played on your turn, draw an item card. A 1 gets an item even if no tiles were played.

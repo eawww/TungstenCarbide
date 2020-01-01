@@ -1,13 +1,19 @@
 # Setup
 
-- Decide player placement
-  - Example:
-    - Players draw initiative tokens to determine home space positions. This can be done with tokens for all available spaces even if there are more positions than players.
-      - (_Optional house rule_: winning player chooses where to sit or elects to try again and allow next player to choose, possibly cascading down to player with losing roll.)
-- Shuffle and divide hexagonal tiles into approximately equal stacks equal to the number of players and place one stack next to the edge of the grid in front of each player, face down.
-- Shuffle and divide rectangular item cards into approximately equal stacks equal to the number of players and place one stack next to the corner to the left of each player
-- Place initiative tokens for number of players in **initiative token pool**
-  - 1 and 2 for 2 players, 1-4 for 4 players, all tokens for 6 players, etc.
-- Each player does the following:
-  - Places character piece on starting position for chosen sextant.
-  - Draws 6 hexagonal tiles
+### Decide player placement
+
+Before anyone gets comfortable, pass the cup of initiative tokens around. Each player pulls a token from the cup at starts at the space coresponding to the color on the bottom of their token. Return all initiative tokens to the cup.
+
+### Shuffle Tunnel Tiles
+
+This is a team effort. Shuffling hundreds of small hexagons is a lot more complicated than shuffling 52 cards. Players all grab some tiles and scatter them, face down, all over the board... as if feeding hexagonal tiles to a bunch of ducks in a small pond. Don't put more than a couple down at a time. Go nuts with it but make sure they all stay face-down. After all the tiles are scattered, players collect them into 6 roughly even stacks which are then distributed around the outside of the board so they're easily accessible to all players.
+
+### Remove unneeded initiative tokens from cup
+
+You'll only need one token for each player so remove any token whose number is higher than the number of players.
+
+### Arrange your Zone
+
+- Place your character token on your starting space.
+- Place your life token on the **10** space on the life counter portion of your player card.
+- Put your trap tokens on their respective spaces around the outside of your player card. Or don't; the universe is impermanent. What's the point?
