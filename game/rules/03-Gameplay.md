@@ -2,34 +2,32 @@
 
 ### Tunneling Phase
 
-In the first phase of the game, players build the map. It is played in rounds until the entire board is filled with tiles
+In the first phase of the game, players build the map. It is played in rounds until the entire board is filled with tiles.
 
 #### Beginning of round
 
 - All **initiative tokens** are returned to pool.
-- All players roll 1d20 initiative roll
-- Player with highest initiative roll chooses **initiative token** from pool
-- Players do their thing in order of lowest initiative token.
+- Each player chooses an initiative token randomly from the pool. The order in which this is done doesn't matter.
+- Players take their turns in order of lowest initiative token.
 
 #### Player Turn
 
+- You may also discard **6** tiles to draw an item card.
 - Roll **2d6**
-  - High number is the **draw number**
-  - Low number is the **play number**
-- Draw a number of hexagonal tiles equal to your draw number.
-  - These can be taken from any stack and can be looked at immediately
-- For a play number of 1, draw one item card.
-- For a play number of 2-3, draw one item card (face down for now)
-- For a play number of 4-6, draw two item cards (face down for now)
-- Option for play numbers of 1-6:
-  - Put item cards in your hand and look at ‘em.
-  - Play a number of hexagonal tiles equal to your play number on any spaces adjacent to any tiles contiguous to your home space.
-  - On any of these spaces, play a number of items equal to the number of item cards drawn this turn, placing no more than one item on any space. These items may be placed as **caches** or as **traps**.
-- Option for play numbers of 2-6:
-  - Draw an additional item card. Keep all item cards drawn on this turn face down and separate from your hand.
-  - Play a number of hexagonal tiles equal to your play number on any spaces adjacent to any tiles contiguous to your home space.
-  - Without looking at them, play all item cards drawn on this turn as _traps_ on spaces that you just placed, placing no more than one item on any space.
-- Discard all but 6 hexagonal tiles. You should have exactly 3 item cards and 6 tiles at the end of your turn.
+  - Low number is the **draw number**
+  - High number is the **play number**
+- Draw a number of hexagonal tiles equal to your **draw number**.
+  - These can be taken from any stack and can be looked at immediately. Keep all of your tiles hidden, or don't if you want. Who cares?
+- Roll **1d6**. If the result is _lower_ than your **play number**, draw an **item card**.
+- _If there are no open paths from your origin space_, you're a bastard and stop it. Here's what's gonna happen:
+  - Your opponents can bid tiles from their hand as an _offering of dirt_ to decide who gets to _command the great disruptor worm_. The great disruptor worm HATES closed loops:
+  - Whoever bids the most tiles commands the disruptor worm to mess up your shit and uses one of their bid tiles to replace a tile of their choosing to open a continuous path to your origin space. They discard the rest to the bottom of whatever pile.
+  - If this is a two-player game, your opponent just chooses whether or not to replace one of your tiles with one of theirs.
+- Place a number of tiles between 1 and your **play number**. You must play at least one tile each turn.
+  - Each tile must continue a path from your origin space.
+  - On any tile you play this turn, you may lay one item as either a **trap** or a **cache**.
+    - You may only do this once per turn.
+- At the end of their turn, player returns their initiative token to the cup.
 
 ### Murdering Phase
 
