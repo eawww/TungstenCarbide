@@ -32,4 +32,4 @@ Each player pulls an initiative token from the cup and places it in front of the
 
 4. Roll 1d6
 
-- If the result is either 1 or is less than the number of tiles you played on your turn, draw an item card.
+- If the result is equal to or less than the number of tiles you played on your turn, draw an item card. A 1 gets an item even if no tiles were played.

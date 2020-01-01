@@ -9,7 +9,7 @@ When a player or player's minion enters the space of another player or player's 
 ### Deciding Turn Order
 
 1. The player who entered the contested space (agressor) must declare whether they intend to engage in combat. If they do, they take the attacking role first in the turn order. Players may verbally negotiate before the agressor declares their decision.
-2. The player who was just minding their own business (nonbelligerent) then declares whether they intend to engage in combat. This decision is not necessarily bound by any promises made during the negotiation phase during the previous step. If the nonbelligerent chooses to engage, they take the attacking tole first in the turn order.
+2. The player who was just minding their own business (nonbelligerent) then declares whether they intend to engage in combat. This decision is not necessarily bound by any promises made during the negotiation phase during the previous step. If the nonbelligerent chooses to engage, they take the attacking role first in the turn order.
 
 ## Combat turn
 
@@ -17,9 +17,9 @@ Players alternate taking the _attacking role_ and the _defender role_ until one 
 
 A player can do one of the following on their turn:
 
-- **Attack** - Roll 2d6. Defender can choose to roll 1 or 2 d6. Either player may play one item if they wish.
+- **Attack** - Roll 2d6. Defender can choose to roll 1 or 2 d6. A robot slave can only roll 1d6. Either player may play one item if they wish.
   - Players' highest roll is matched against their opponent's highest roll. Defender wins ties.
   - For each defender's dice that is defeated, defender takes one damage.
   - If defender wins both dice, this is a counter-attack. Attacker takes one damage.
-- **Use an Item on an Opponent** - Use one item from their hand. This item may not be placed as a trap on the current space.
-- **Disengage** - If a player chooses to disengage, both players roll _1d6_. If the disengaging player's roll is greater than the other player's, the disengaging player may flee a number of spaces equal to the difference between the two rolls (plus any remaining movement if they are the invading player).
+- **Use an Item on an Opponent** - Use one item from their hand. This item may _not_ be placed as a trap on the current space.
+- **Disengage** - If a player chooses to disengage, both players roll _1d6_. If the disengaging player's roll is greater than the other player's, the disengaging player may flee a number of spaces equal to the difference between the two rolls.

@@ -3,7 +3,6 @@
 - _Robot Slave_
 - _Cave Orphan_
 - _Dirt_
-- _Spikes_
 - _Bomb_
 - _Knife_
 - _Letter of Acknowledgement from the Foreman_
@@ -25,47 +24,71 @@ A player can only control up to 2 Robot Slaves at a time. A Robot Slave has the 
 
 ## Cave Orphan
 
-The children of former contestants, these dirt-covered beastchildren wandered underground in search of their parents and became lost. Their longing for adult guidance makes them eager to disarm traps for you.
+_The children of former contestants, these dirt-covered beastchildren wandered underground in search of their parents and became lost. Their longing for adult guidance makes them eager to disarm traps for you._
 
 **Action**: Moves up to 3 spaces to a space with trap in it. Roll 1d6:
 
 - **1-4** - Orphan and Trap are destroyed.
 - **5-6** - Orphan and item are returned to owner's hand.
 
-**Trap**: "Are you my mommy?" Orphan hugs you with all the strength of its abandonment issues. Stop moving this turn and don't move next turn.
+**Trap**: "I picked your pocket!" Owner of this trap randomly draws an item card from you.
 
 ## Dirt
 
-Dirt.
+_Dirt._
 
-**Action**: You drop some dirt on the ground.
+**Action**: Draw one tunnel tile. If the board is full, you can roll again at the end of your turn to see if you get an item. You can still only get one item per turn.
 
 **Trap**: You notice that the floor of this dirt tunnel is made of dirt.
 
-## Spikes
+## Blasting Cap
 
-A **Trap** Card. Does 1 damage to a player who steps on them unless they have special shoes or something that prevent that kind of thing.
+**Action**: Roll 2d6 during combat. High number damages opponent, low number damages yourself.
 
-## Bomb
-
-A **Trap** Card. Does 3 damage when tripped, though an armor bonus can reduce it. When tripped, player rolls 1d6. On a roll of 1-2, a cave-in occurs. Tile is replaced randomly by another tile from the deck and is then rotated clockwise 1d6 times.
+**Trap**: Kaboom! Does 1d6 damage.
 
 ## Knife
 
-A _weapon_ that does 2 HP of damage.
+**Action**: Stab! Do 2 extra damage to an opponent during combat.
+
+**Trap**: Spike pit! -2 HP.
 
 ## Letter of Acknowledgement from the Foreman
 
-+2 to HP.
+_They really do care! <3_
+
+**Action**: Validation! +2 to HP.
+
+**Trap**: It's for someone else. Demoralized. -2 to HP.
 
 ## Mattock
 
-A digging tool. Can be used once and discarded to rotate any one adjacent or current tile. Alternativelt can be used as a _weapon_ that does 1 HP of damage. The mattock can be used to dig while equipped but must still be discarded.
+**Action**: Replace any adjacent tile or the one that you're on with one from your hand or rotate the one that's already there.
+
+**Trap**: There's a big-ass hole here. And you fell into it, you dummy. Stop moving this turn and don't move next turn.
 
 ## Flashlight
 
-It lets you see stuff a little better. Can be equipped as a weapon that does 1 HP of damage and gives a +2 speed bonus.
+**Action**: "I can see!" Play before tripping a trap. A 4 or higher disarms, a 3 avoids.
+
+**Trap**: "I'm blind!" Stop moving.
 
 ## Yam
 
-Standard issue miner yam. You stow half of it away so you might share it with your family... if you ever see them again. Gives +1 Health.
+Standard issue miner yam. You stow half of it away so you might share it with your family... if you ever see them again.
+
+**Action**: Bland and nourishing! Gain 1 HP.
+
+**Trap**: Bland and poisoned! Lose 1 HP.
+
+## Rock
+
+**Action**: A versatile tool. Play during combat to reroll one or both of your dice.
+
+**Trap**: A rock swings down and smacks your dirty face. -1 HP and stop moving.
+
+## Stick
+
+**Action**: Smack! Do -1 HP to opponent in combat.
+
+**Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise.
