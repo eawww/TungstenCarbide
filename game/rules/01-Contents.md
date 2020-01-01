@@ -1,20 +1,26 @@
 # Contents
 
 - Board
+  - 10x10x10 hexagonal grid
 - 6 Character Tokens
-- 12 Robot Slave Tokens
 - 1 Cup of Initiative Tokens
   - 6 Initiative Tokens
 - 6 Health tracking tokens
+- 270 Hexagonal Tunnel Tiles
+- 12 six-sided dice
 - 6 Player Boards
-- 12 Robot Slave Boards
+  - Includes:
+    - Health counter (dead - 20)
+    - Turn description
+    - Spaces to place trap cards under board
+- Item Cards (See _Items_)
 - 120 Item Tokens
   - 20 for each player
-- 200 Item Cards (See _Items_)
+- 12 Robot Slave Tokens
 
 ## Board
 
-The game is played on a hexagonal grid. A variety of maps may be created, but the standard map is a 10x10x10 hexagon. Home spaces are centered on each side one row from the edge. Home spaces are numbered from 1-6 in clockwise order for position selection purposes.
+The game is played on a hexagonal grid. A variety of maps may be created, but the standard map is a 10x10x10 hexagon. Home spaces are centered on each side one row from the edge.
 
 ## Character Tokens
 
@@ -30,7 +36,8 @@ A cup of initiative tokens for randomly choosing turn order in each round.
 
 ### Initiative Tokens
 
-Initiative tokens to designate turn order. Are drawn at the beginning of each round and kept for the duration of the round.
+Initiative tokens to designate turn order. Are drawn at the beginning of each round and kept for the duration of the round. They are numbered from 1-6.
+Each has a color on the bottom coresponding to a starting space.
 
 ## Health Tracking Tokens
 
@@ -41,14 +48,8 @@ A little thing to place on your health tracker to keep track of your health.
 Each player has their very own board for managing individual gameplay. This board has the following things on it:
 
 - **HP Tracker** - Used to track player HP, the HP Tracker is composed of 21 little squares or dots labeled from _Dead, 1, 2, ..., 19 20_. A marker is initially placed on _10_ but players can gain or lose HP throughout the game. HP may never exeed 20.
-- **Item Index** - The item index is _20_ Item Card-shaped "slots" that are labeled from 1-20. Each space has a corresponding marker of the player's color. When an item is placed on the board, the card is placed in the Item Index slot and the corresponding marker is placed on the board in either the _cache_ or _trap_ configuration.
-- **Weapon Slot** - A weapon must be equipped to be used. To be equipped, a weapon card is placed in the weapon slot.
-- **Armor Slot** - Similarly to the Weapon Slot, an Armor item can be equipped and placed in the Armor Slot. Armor must be equipped before it is used.
+- **Item Index** - The item index is _20_ Item Card-shaped "slots" that are labeled from 1-20. Each space has a corresponding marker of the player's color. When an item is placed on the board, the card is placed in the Item Index slot and the corresponding marker is placed on the board.
 - **Initiative** - A handy little spot to keep your _initiative token_.
-
-## Robot Slave Boards
-
-A smaller version of the player board used to keep track of a Robot Slave.
 
 ## Hexagonal Tunnel Tiles
 
@@ -71,10 +72,11 @@ Item cards are central to the gameplay. Each player starts the Tunneling Phase w
 ## _DIY Suggestions_
 
 - **Board**: One of those trifold presentation boards with a board meticulously drawn on.
+  - Raised border can also be made out of the same presentation board.
 - **Character Tokens**: 🤷‍
 - **Robot Slave Tokens**: 🤷‍
 - **Cup of Initiative Tokens**: Just any opaque cup you have around.
-  - **Initiative Tokens**: 1/2" Galvanized machine nuts marked with sharpie
+  - **Initiative Tokens**: 1/2" Galvanized machine nuts marked with sharpie. Mark numbers on sides with black sharpie. Color the bottoms so that each nut coresponds to one of the starting spaces.
 - **Player Boards**: 🤷‍
 - **Robot Slave Boards**: 🤷‍
 - **Hexagonal Tunnel Tiles**: Punched out of posterboard with a hexagonal paper punch and drawn on with markers.

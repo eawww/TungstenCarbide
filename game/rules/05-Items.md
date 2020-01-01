@@ -13,24 +13,34 @@
 
 ## Robot Slave
 
-Three separate cards compose the Robot Slave. Once a player collects all parts of them, they may activate it. Once activated, the Robot Slave becomes like a second player, controlled by the player who activated it. A player can only control up to 2 Robot Slaves at a time. A Robot Slave has the following properties:
+A robot slave has its own turn that occurs after a the turn of the player who controls it.
+
+A player can only control up to 2 Robot Slaves at a time. A Robot Slave has the following properties:
 
 - Starts with 5 HP.
-- Cannot gain HP, though it can wear armor.
-- Can equip a weapon.
-- Has its own hand but does not start with any items.
+- Has its own hand but does not start with any items. Can hold up to 3 item cards.
 - Can freely exchange item cards with its master so long as they are on adjacent spaces connected by a tunnel.
 - Can engage in combat with other players and other Robot Slaves.
 - Cannot activate another Robot Slave.
-- For the _dig_ action, must only roll a 5-6 for _random digging_ or a 8-12 for _directed digging_.
 
 ## Cave Orphan
 
-The children of former contestants, these dirt-covered beastchildren wandered underground in search of their parents and became lost. Their longing for adult guidance makes them eager to disarm traps for you. When activated, a Cave Orphan can move up to 3 spaces to a space with a _trap_ set on it. The player rolls 1d6 to decide the fate of the Orphan. A roll of 1-4 destroys both the trapped item and the Orphan. On a roll of 5-6, the Orphan returns to the player with the item.
+The children of former contestants, these dirt-covered beastchildren wandered underground in search of their parents and became lost. Their longing for adult guidance makes them eager to disarm traps for you.
+
+**Action**: Moves up to 3 spaces to a space with trap in it. Roll 1d6:
+
+- **1-4** - Orphan and Trap are destroyed.
+- **5-6** - Orphan and item are returned to owner's hand.
+
+**Trap**: "Are you my mommy?" Orphan hugs you with all the strength of its abandonment issues. Stop moving this turn and don't move next turn.
 
 ## Dirt
 
 Dirt.
+
+**Action**: You drop some dirt on the ground.
+
+**Trap**: You notice that the floor of this dirt tunnel is made of dirt.
 
 ## Spikes
 
