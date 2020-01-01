@@ -12,20 +12,22 @@ In the first phase of the game, players build the map. It is played in rounds un
 
 #### Player Turn
 
-- Roll **1d6**, for a roll of 4 or higher, draw an **item card**.
 - You may also discard **6** tiles to draw an item card.
 - Roll **2d6**
   - Low number is the **draw number**
   - High number is the **play number**
 - Draw a number of hexagonal tiles equal to your **draw number**.
   - These can be taken from any stack and can be looked at immediately. Keep all of your tiles hidden, or don't if you want. Who cares?
+- Roll **1d6**. If the result is _lower_ than your **play number**, draw an **item card**.
 - _If there are no open paths from your origin space_, you're a bastard and stop it. Here's what's gonna happen:
   - Your opponents can bid tiles from their hand as an _offering of dirt_ to decide who gets to _command the great disruptor worm_. The great disruptor worm HATES closed loops:
-  - Whoever bids the most tiles uses one of their bid tiles to replace a tile of their choosing to open a continuous path to your origin space. They discard the rest to the bottom of whatever pile.
-  - If this is a two-player game, your opponent just chooses whether or not to replace one of your tiles.
-- Place a number of tiles between 1 and your **play number**.
+  - Whoever bids the most tiles commands the disruptor worm to mess up your shit and uses one of their bid tiles to replace a tile of their choosing to open a continuous path to your origin space. They discard the rest to the bottom of whatever pile.
+  - If this is a two-player game, your opponent just chooses whether or not to replace one of your tiles with one of theirs.
+- Place a number of tiles between 1 and your **play number**. You must play at least one tile each turn.
   - Each tile must continue a path from your origin space.
-  - On any tile you play this turn, you may lay one item as either a **trap** or a **cache**. You may only do this once per turn
+  - On any tile you play this turn, you may lay one item as either a **trap** or a **cache**.
+    - You may only do this once per turn.
+- At the end of their turn, player returns their initiative token to the cup.
 
 ### Murdering Phase
 
