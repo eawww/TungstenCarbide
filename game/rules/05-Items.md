@@ -31,7 +31,7 @@ _The children of former contestants, these dirt-covered beastchildren wandered u
 - **1-4** - Orphan and Trap are destroyed.
 - **5-6** - Orphan and item are returned to owner's hand.
 
-**Trap**: "I picked your pocket!" Owner of this trap randomly draws an item card from you.
+**Trap**: "I picked your pocket!" Owner of this trap randomly draws an item card from your hand.
 
 ## Dirt
 
@@ -69,13 +69,13 @@ _They really do care! <3_
 
 ## Flashlight
 
-**Action**: "I can see!" Play before tripping a trap. A 4 or higher disarms, a 3 avoids.
+**Action**: "I can see!" Play before tripping a trap. A 5 or higher disarms, a 3 or 4 avoids.
 
 **Trap**: "I'm blind!" Stop moving.
 
 ## Yam
 
-Standard issue miner yam. You stow half of it away so you might share it with your family... if you ever see them again.
+_Standard issue miner yam. You stow half of it away so you might share it with your family... if you ever see them again._
 
 **Action**: Bland and nourishing! Gain 1 HP.
 
@@ -91,4 +91,16 @@ Standard issue miner yam. You stow half of it away so you might share it with yo
 
 **Action**: Smack! Do -1 HP to opponent in combat.
 
-**Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise.
+**Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise before moving off of it.
+
+## Machine Grease
+
+**Action**: You grease yourself up good and slip away from your attacker. Immediately disengage.
+
+**Trap**: The owner of this trap immediately moves your piece one space in any available direction. You may continue your turn afterwards.
+
+## Uppers
+
+**Action**: If not in combat, roll 2d6. Move a number of spaces equal to the higher number, only doubling back at dead ends.
+
+**Trap**: Roll 2d6. Move a number of spaces equal to the higher number, only doubling back at dead ends.

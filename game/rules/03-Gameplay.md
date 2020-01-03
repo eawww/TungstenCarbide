@@ -27,9 +27,30 @@ Each player pulls an initiative token from the cup and places it in front of the
   - **1-4** - You've tripped the trap. You moron! The player who owns the trap reveals the associated card applies the _trap_ effect to you. The movement from your Dig Number ends.
   - **5** - You've managed to avoid the trap. Proceed as if there's no trap there. If you end your turn in this space, you can freely move out of it on your next turn.
   - **6** - You masterful trickster, you! You've disarmed the trap! Collect the item card associated with it and add it to your hand. Return the trap marker to its owner. Alternatively, you can choose to play this as a 5 and simply continue on your way.
-- If you move into a space with your own trap, roll _1d6_. On a 1, you have stupidly tripped your own trap. You idiot. Reveal the card associated with it and apply its _trap_ effect to yourself.
+- If you move into a space with your own trap, roll _1d6_.
+  - **1** - You have stupidly tripped your own trap. You idiot. Reveal the card associated with it and apply its _trap_ effect to yourself.
+  - **2-3** - Avoided.
+  - **4+** - You can choose to add it back into your hand.
 - If you move into a space with another player or another players minion, you may mutually agree not to engage each other. If you've moved a player character token into a space with another player character token, you may mutually agree to trade. If either party wishes to engage in combat, combat begins. Have at you!!!
 
 4. Roll 1d6
 
 - If the result is equal to or less than the number of tiles you played on your turn, draw an item card. A 1 gets an item even if no tiles were played.
+
+## When a player is killed
+
+It is common wisdom that the last thing a person does is empty their bowels. When a player is defeated, the player or robot who defeated them may randomly steal half (rounded up) of that player's items. The other half got covered in poo and that's gross. The rest of their items are shuffled and placed face down in a stack in front of them (See Afterlife below). All the players traps remain in effect.
+
+## The Afterlife
+
+When a player dies, their body becomes the grass. And the antelope eat the grass... but grass ain't free. That antelope oughta do you a favor, eh?
+
+On a players turn, when they are dead, if they do not control an antelope, an antelope appears on the space where they fell. The player plays as the antelope with the following properties:
+
+- Draws one item card from the player's death stack when it spawns. If there are none left, draw from the common pool. If there are none in the common pool, draw randomly from the player with the most items.
+- It operates as a player would with the following exceptions:
+  - May only hold one item at a time in its little antelope mouth.
+  - Rolls 1d6 for movement.
+  - Starts with 1 HP
+  - Has already lost the game. Its goal is to cause chaos. It is a chaos antelope.
+  - Cannot dig because look at those little hoofs.
