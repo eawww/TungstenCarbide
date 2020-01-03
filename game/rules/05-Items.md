@@ -91,4 +91,16 @@ _Standard issue miner yam. You stow half of it away so you might share it with y
 
 **Action**: Smack! Do -1 HP to opponent in combat.
 
-**Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise.
+**Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise before moving off of it.
+
+## Machine Grease
+
+**Action**: You grease yourself up good and slip away from your attacker. Immediately disengage.
+
+**Trap**: The owner of this trap immediately moves your piece one space in any available direction. You may continue your turn afterwards.
+
+## Uppers
+
+**Action**: If not in combat, roll 2d6. Move a number of spaces equal to the higher number, only doubling back at dead ends.
+
+**Trap**: Roll 2d6. Move a number of spaces equal to the higher number, only doubling back at dead ends.

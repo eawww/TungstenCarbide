@@ -14,9 +14,11 @@
     - Turn description
     - Spaces to place trap cards under board
 - Item Cards (See _Items_)
-- 120 Item Tokens
-  - 20 for each player
+- 60 Item Tokens
+  - 10 for each player
 - 12 Robot Slave Tokens
+  - 2 for each player
+- 6 Antelope tokens
 
 ## Board
 
