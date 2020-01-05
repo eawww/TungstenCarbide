@@ -9,6 +9,10 @@
 - _Mattock_
 - _Flashlight_
 - _Yam_
+- _Rock_
+- _Stick_
+- _Machine Grease_
+- _Uppers_
 
 ## Robot Slave
 
@@ -21,6 +25,8 @@ A player can only control up to 2 Robot Slaves at a time. A Robot Slave has the 
 - Can freely exchange item cards with its master so long as they are on adjacent spaces connected by a tunnel.
 - Can engage in combat with other players and other Robot Slaves.
 - Cannot activate another Robot Slave.
+
+**Trap**: Can be placed as a trap that activates and engages the tripping player in combat.
 
 ## Cave Orphan
 
@@ -94,6 +100,8 @@ _Standard issue miner yam. You stow half of it away so you might share it with y
 **Trap**: It was holding the cieling up! Why did you move it?? Rotate current tile 1d6 times (60º each) clockwise before moving off of it.
 
 ## Machine Grease
+
+_You're the machine!_
 
 **Action**: You grease yourself up good and slip away from your attacker. Immediately disengage.
 
